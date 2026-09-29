@@ -1,0 +1,31 @@
+student_id,fname,lname,age,gender,country,university,major,year,gpa,attendance_rate,study_hours_per_week,credits,tuition_usd,scholarship,passed
+1,Ahmed,Hassan,21,Male,Egypt,Cairo University,Computer Science,3,3.4,88.5,15,18,3500,Yes,Yes
+2,Sara,Ali,23,Female,Egypt,Ain Shams University,Medicine,5,3.8,92.0,25,22,5000,Yes,Yes
+3,John,Smith,22,Male,USA,MIT,Engineering,4,3.6,85.0,20,17,55000,No,Yes
+4,Layla,Ibrahim,20,Female,UAE,NYU Abu Dhabi,Business,2,3.1,78.5,12,15,48000,Yes,Yes
+5,Omar,Khaled,24,Male,KSA,King Saud University,Engineering,5,2.9,70.0,10,19,12000,No,No
+6,Mona,Youssef,19,Female,Egypt,Cairo University,Arts,1,3.7,95.0,18,14,3000,Yes,Yes
+7,David,Brown,23,Male,USA,Stanford University,Computer Science,4,3.9,97.5,30,18,60000,No,Yes
+8,Fatima,Zahra,22,Female,Morocco,University of Rabat,Medicine,4,3.5,89.0,22,20,4000,Yes,Yes
+9,Liam,Johnson,21,Male,UK,University of Oxford,Law,3,3.3,82.0,16,16,45000,No,Yes
+10,Nour,Adel,20,Female,Egypt,Ain Shams University,Pharmacy,2,3.6,90.0,20,17,4500,Yes,Yes
+11,Chen,Wei,24,Male,China,Tsinghua University,Engineering,5,3.8,93.0,28,21,8000,Yes,Yes
+12,Aisha,Khan,21,Female,Pakistan,LUMS,Medicine,3,3.4,86.5,19,18,6000,No,Yes
+13,Carlos,Ruiz,22,Male,Mexico,UNAM,Architecture,4,3.0,75.0,14,17,3500,Yes,No
+14,Emma,Müller,20,Female,Germany,TU Munich,Physics,2,3.9,98.0,32,16,1500,Yes,Yes
+15,Yusuf,Demir,23,Male,Turkey,Bogazici University,Economics,4,3.2,80.0,17,18,2500,No,Yes
+16,Priya,Patel,21,Female,India,IIT Bombay,Computer Science,3,3.7,91.0,24,19,3000,Yes,Yes
+17,Noah,Martin,22,Male,France,Sorbonne University,History,4,3.1,76.5,13,16,2000,No,No
+18,Zainab,Hussein,19,Female,Iraq,University of Baghdad,Biology,1,3.5,88.0,18,15,1500,Yes,Yes
+19,Daniel,Garcia,24,Male,Spain,University of Barcelona,Chemistry,5,3.6,84.0,21,20,1800,No,Yes
+20,Hana,Suzuki,20,Female,Japan,University of Tokyo,Mathematics,2,3.9,96.5,29,16,5000,Yes,Yes
+21,Ahmed,Nasser,22,Male,Egypt,Cairo University,Engineering,4,3.0,79.0,15,18,3500,No,Yes
+22,Sophia,Lee,21,Female,South Korea,Seoul National University,Design,3,3.4,87.0,20,17,4500,Yes,Yes
+23,Mohamed,Tarek,23,Male,Egypt,Ain Shams University,Computer Science,4,3.8,94.0,26,19,4500,Yes,Yes
+24,Isabella,Rossi,20,Female,Italy,University of Milan,Fashion,2,3.2,81.0,16,15,2500,No,Yes
+25,Abdullah,Salem,24,Male,UAE,UAE University,Law,5,2.8,68.0,9,18,15000,No,No
+26,Grace,Chen,22,Female,Singapore,NUS,Data Science,4,3.9,97.0,31,20,12000,Yes,Yes
+27,Hassan,Raza,21,Male,Pakistan,NUST,Engineering,3,3.3,83.0,18,17,2500,Yes,Yes
+28,Olivia,Anderson,20,Female,Sweden,KTH Royal Institute,Robotics,2,3.7,92.0,25,16,0,Yes,Yes
+29,Karim,Fouad,23,Male,Egypt,Cairo University,Medicine,5,3.5,89.5,22,21,5000,Yes,Yes
+30,Maya,Khalil,19,Female,Lebanon,American University of Beirut,Business,1,3.6,90.0,19,15,18000,No,Yes
