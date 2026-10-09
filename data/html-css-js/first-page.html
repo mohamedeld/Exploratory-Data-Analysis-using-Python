@@ -1,0 +1,39 @@
+<html>
+	<head>
+		<title>My First Web Page</title>
+
+		<style>
+			body {
+				color: red;
+			}
+			h1 {
+				color: black;
+			}
+			p {	
+				font-family: tahoma;
+				font-size: 40px;
+			}
+		</style>
+	</head>
+
+	<body>
+		<h1>Hello, World!</h1>
+		<p>This is a paragraph</p>
+		<button id="color">Change Color</button>
+		
+		<script>
+			document.getElementById('color').onclick = changeColor;
+			var myColor = "red";
+			
+			function changeColor(){
+				if (myColor == "red"){
+					document.body.style.color = "green";
+					myColor = "green";	
+				} else {
+															document.body.style.color = "red";
+					myColor = "red";	
+				}			
+			}
+		</script>
+	</body>
+</html>
